@@ -1,0 +1,18 @@
+{
+    "name": "behemoth/config",
+    "description": "Config component of the Behemoth CMS",
+    "type": "library",
+    "require": {
+        "illuminate/config": "^5.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jason Roeser",
+            "email": "jason@data-bound.com"
+        }
+    ]
+}
